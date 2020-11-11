@@ -30,6 +30,7 @@ url: "https://ai-men.github.io" # the base hostname & protocol for your site
 repo: "https://github.com/AI-MEN/MLDiagBlog"
 github_user: "AI-MEN"
 github_repo: "MLDiagBlog"
+github_repo2: "MLDiag"
 
 # Optional
 twitter: 
