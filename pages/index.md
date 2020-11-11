@@ -9,7 +9,7 @@ published: true
 
 This is the blog for the [MLDiag Framework](https://github.com/AI-MEN/MLDiag).
 
-![MLDiag](https://github.com/AI-MEN/MLDiag/blob/master/docs/capture.jpg?raw=true)
+![MLDiag](https://github.com/AI-MEN/MLDiag/blob/master/ressources/capture.jpg?raw=true)
 
 
 
