@@ -1,3 +1,7 @@
+---
+title: Use cases
+description: MLDiag uses cases
+---
 ## Use cases
 
 In this section, we show some diagnosis of well known public models on public datasets,
