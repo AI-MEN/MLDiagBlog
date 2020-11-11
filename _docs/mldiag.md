@@ -1,5 +1,11 @@
 ---
 title: MLDiag
+tags: 
+ - MLDiag
+ - adversarial
+ - NLP
+ - deep learning
+ - computer vision
 description: MLDiag framework
 ---
 ## MLDiag
