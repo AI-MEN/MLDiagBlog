@@ -2,9 +2,6 @@
 title: Use cases
 tags: 
  - MLDiag
- - tensorflow
- - pytorch
- - scikit-learn
 description: MLDiag uses cases
 ---
 ## Use cases
