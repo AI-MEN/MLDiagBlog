@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Docsy Jekyll Theme
+title: Index
 permalink: /
+published: true
 ---
 
-# Welcome to Docsy Jekyll
+# Welcome to the MLDiag Blog
 
-This is a starter template for a docsy jekyll theme.
+This is the blog for the [MLDiag Framework](https://github.com/AI-MEN/MLDiag).
 
-![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
+![MLDiag capture](https://github.com/AI-MEN/MLDiag/blob/master/docs/capture.jpg)
 
 ## Purpose
 
